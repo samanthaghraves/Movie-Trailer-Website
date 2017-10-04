@@ -32,7 +32,7 @@ matilda = media.Movie("Matilda",
                       "https://www.youtube.com/watch?v=MdC_YMvYZyI")
 
 
-#movies = [big_money_hustlas, toy_story, school_of_rock, battle_royale, bojack_horseman, matilda]
-#fresh_tomatoes.open_movies_page(movies)
+movies = [big_money_hustlas, toy_story, school_of_rock, battle_royale, bojack_horseman, matilda]
+fresh_tomatoes.open_movies_page(movies)
 #print(media.Movie.VALID_RATINGS)
-print(media.Movie.__doc__)
+#print(media.Movie.__doc__)
